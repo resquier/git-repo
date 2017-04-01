@@ -1,7 +1,0 @@
-print("Welcome;")
-print("New Welcome;")
-print("Hello;")
-print("Hello my dear friend;")
-print("I'm glad to see you;")
-print("1 file;")
-print("master;")
