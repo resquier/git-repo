@@ -1,3 +1,3 @@
-print("Welcome")
-print("New Welcome")
-print("Hello")
+print("Welcome;")
+print("New Welcome;")
+print("Hello;")
